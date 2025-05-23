@@ -1,5 +1,5 @@
 # 💫 About Me: 
-🔭 Hi, I’m A Full-stack<br>👯 I’m interested in ...Technology<br>🤝 I’m Livewire & Filament DEv.<br>🌱 I’m looking to collaborate on any project<br>📫 You can reach me on solomon.iroegbu[@]gmail.com<br>💬 Ask me about anything...<br>⚡ Fun fact: I am a Crazy Dancer 
+🔭 Hi, I’m A Full-stack Web<br>| Mobile DEv.👯 I’m interested in ...Technology<br>🤝 I’m Livewire & Filament DEv.<br>🌱 I’m looking to collaborate on any project<br>📫 You can reach me on solomon.iroegbu[@]gmail.com<br>💬 Ask me about anything...<br>⚡ Fun fact: I am a Crazy Dancer 
 
 
 ## 🌐 Socials:
